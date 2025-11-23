@@ -1,6 +1,3 @@
-# Style_Transfer_using_GAN
-
-
 # Style Transfer using GAN (CycleGAN)
 
 ## Overview
